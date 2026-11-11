@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+publish-final/
+publish-folder/
+installer/*.exe
+work/
+.vs/
+*.user
+*.suo
